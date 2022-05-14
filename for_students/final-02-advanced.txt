@@ -1,0 +1,20 @@
+Advanced Thing: Complex Behavior
+Example: Drive/Follow forkLift
+The forkLift has a behavior with a state machine. The forkLift goes towards to the truck, then drop the lift arm to simulate carry the goods, then raise the arm, turn around and go back.
+
+Advanced Thing: Complex Behavior
+Example: Drive/Follow car
+The car has a behavior with a state machine. The car move around the road (track is a square), when it meet with the stop sign, the car will stop for a while and then move again. I set 8 states to implement this.
+
+Advanced Thing: Particle System-snow
+Example: LookAt snow
+I used TetrahedronGeometry to create snow particle, randomly set their initial position, as the time elapsed, the height of the particle decrease, finally they will be removed if they hit the ground
+
+Advanced Thing: Animated Shader Effect-pond
+Example: LookAt pond
+Adding flowing river texture to the pond by using shaders. 
+
+Advanced Thing(try refresh the page): Key-Framing-person walk across the road
+Example: LookAt person
+Person walk across the road, car will stop and wait the person to pass through
+

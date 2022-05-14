@@ -1,0 +1,43 @@
+List all attributions here, this include "self-attributions":
+
+-FedEx logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/FedEx_Corporation_-_2016_Logo.svg/800px-FedEx_Corporation_-_2016_Logo.svg.png
+
+-pattern picture: https://www.google.com/search?q=pattern&source=lnms&tbm=isch&sa=X&ved=2ahUKEwieqN28vcn3AhXELs0KHa5VDLEQ_AUoAXoECAIQAw&biw=1118&bih=692&dpr=2.5#imgrc=FWw91YbLMSqeWM
+
+-window picture: https://secure.img1-fg.wfcdn.com/im/59746753/resize-h445%5Ecompr-r85/1433/143309973/Anastasiya+Self+Watering+Plastic+Window+Box+Planter.jpg
+
+-metal picture: https://wallpaperaccess.com/full/4588792.jpg
+
+-snow picture: https://us.123rf.com/450wm/czdistagon/czdistagon2008/czdistagon200800051/153313026-high-angle-view-of-snow-texture.jpg?ver=6
+
+-stop sign: https://free3d.com/3d-model/stop-sign-58062.html
+
+-roof picture: https://www.google.com/search?q=roof+&tbm=isch&ved=2ahUKEwjhrd-9vcn3AhWUb80KHQrwD7EQ2-cCegQIABAA&oq=roof+&gs_lcp=CgNpbWcQAzIECAAQQzIHCAAQsQMQQzIHCAAQsQMQQzIECAAQQzIKCAAQsQMQgwEQQzIHCAAQsQMQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzoICAAQgAQQsQM6CwgAEIAEELEDEIMBOggIABCxAxCDAVCdH1i8MmCPNGgAcAB4AIABuAGIAawEkgEDMy4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Tll0YuHOJZTftQaK4L-ICw&bih=692&biw=1118#imgrc=yZPhGYkNJHCE9M
+
+-school bus picture: https://www.google.com/search?q=school+bus&tbm=isch&ved=2ahUKEwjkmO_uvcn3AhUTBJ0JHcqkDr8Q2-cCegQIABAA&oq=school+bus&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzIFCAAQgAQyCAgAEIAEELEDMgsIABCABBCxAxCDATIICAAQgAQQsQMyBQgAEIAEMggIABCABBCxAzIFCAAQgAQ6BAgAEBg6CAgAELEDEIMBOgQIABBDOgcIABCxAxBDUO8EWNkPYJsQaABwAHgAgAHzAYgBnAqSAQU0LjQuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=tVl0YqTqJpOI9PwPysm6-As&bih=692&biw=1118#imgrc=gNCrYmonvwP_lM
+
+-helicopter picture(texture): https://www.google.com/search?q=%E4%BC%AA%E8%A3%85%E8%89%B2&tbm=isch&ved=2ahUKEwjFsuHovcn3AhUGYM0KHZ5sAxoQ2-cCegQIABAA&oq=%E4%BC%AA%E8%A3%85%E8%89%B2&gs_lcp=CgNpbWcQAzIECAAQGDIECAAQGDoFCAAQgAQ6CAgAEIAEELEDOgsIABCABBCxAxCDAToGCAAQCBAeOgQIABAeOgYIABAFEB5QnwlY9Rpglx5oAHAAeACAAfgCiAHTE5IBBzEuNy4wLjSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=qFl0YsW-MobAtQae2Y3QAQ&bih=692&biw=1118#imgrc=XjqDSfFfwyfuCM
+
+-second roof picture: https://www.google.com/search?q=roof&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjXhuGXvsn3AhUXB50JHX1YB3IQ_AUoAXoECAMQAw&biw=1118&bih=692&dpr=2.5#imgrc=mXdY6iODd-WU-M
+
+-sky box picture: https://opengameart.org/art-search?keys=skybox
+
+-bus(the school bus) is from my previous workbook8 -FedEx truck: from my previous workbook8 https://github.com/CS559-Spring22/wb08-TCXiong/blob/master/for_students/08-07-car.js
+
+-FedEx truck: from my previous workbook8 https://github.com/CS559-Spring22/wb08-TCXiong/blob/master/for_students/08-07-car.js
+
+-shaders in pond from https://shaderfrog.com/app/view/3913, I made some changes on the mix function
+
+-dish object: https://free3d.com/3d-model/dish-75046.html
+
+-towers object: https://free3d.com/3d-model/new-york-city-freedom-v1--516259.html
+
+-flySeat: from my previous workbook7, graphic park https://github.com/CS559-Spring22/wb07-TCXiong/blob/master/for_students/07-08-parkobjects.js
+
+-GrCarousel3: from workbook7 sample solution https://cs559-spring22.github.io/wb07-solution/for_students/07-08-01.js
+
+-simpleHouse1: code from https://cs559-spring22.github.io/wb08-solution/for_students/08-06-buildings.js 
+
+-simpleHouse2: code from https://cs559-spring22.github.io/wb08-solution/for_students/08-06-buildings.js
+
+-simpleHouse3: code from https://cs559-spring22.github.io/wb08-solution/for_students/08-06-buildings.js

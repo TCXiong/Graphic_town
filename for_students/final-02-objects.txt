@@ -1,0 +1,32 @@
+(Required) Two kinds of objects created for this assignment:
+1. Helicopter* - created several geometries with texture and then combine them together, change position according to delta time
+2. car* - combine several geometries, set several states to implement a square track
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. truck* - a textured truck made of basic geometry from wb08
+4. bus* - combine several geometries, set several states to implement a back and forth track
+5. flySeat* - a textured flySeat made of basic geometry from wb07
+6. pond* - the flow of river is implemented by shaders, I edited the original shaders file from the website.
+7. Apartment* - just added texture to a simple basic geometry 
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- sphere_decoration* - using time to control the change of colors, and using mix function to implement transition
+- Blue Bus* - similar implement of the car (including the track)
+- person* - the different parts of body are created by several simple geometries, combine the legs and arms as a group and then make them move together
+
+At least on of each type of object:
+Building/structure: Apartment* - just added texture to a simple basic geometry 
+Vehicle: car* - combine several geometries, set several states to implement a square track
+Natural Element: tree_1* - mainly using LatheGeometry to implement, create leaves and chunk and then combine them together
+                 snow* - using TetrahedronGeometry to create snow particle, and then randomly set position according to time
+
+Object loaded from a model file:
+Model: towers* - loaded from an object file from the web
+
+An object with a shader that you wrote:
+ShaderObj: sphere_decoration* - using time to control the change of colors, and using mix function to implement transition
+
+Other Objects that you would like to note:
+Helicopter2* - created several parts and then combined together, using triangle function to create a circle track
+Carousel* - from wb sample solution created by professor
+SimpleHouse1-1* - from wb sample solution created by professor

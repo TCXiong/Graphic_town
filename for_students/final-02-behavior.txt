@@ -1,0 +1,15 @@
+Three different behaviors that you made:
+1. flySeat* - move as a circle track
+2. sphere_decoration* - dynamically change of color
+3. bus* - move forward and backward, stop for a while at each office building
+
+One behavior that is not simple:
+Not simple: car* - move as a square track, along with the road, and stop at the sign
+
+Animated Articulated Figure:
+Articulated: person* - the arm and the leg swing back and forth and across the road
+forkLift* - the lift arm move up and down
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- Blue Bus* - move as as square track
+- sphere_decoration* - move up and down and the dynamically change of color
