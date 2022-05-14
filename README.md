@@ -1,4 +1,6 @@
-# CS559 Workbook , Spring 2021
+# CS559 Workbook , Spring 2022
+
+(This is my final project for cs559)
 
 This set of web pages forms a "workbook" assignment for 
 CS559, Computer Graphics at the University of Wisconsin for Spring 2021.
